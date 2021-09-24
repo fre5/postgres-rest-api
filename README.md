@@ -1,4 +1,6 @@
-Initial setup
+#Storefront backend REST API
+
+###Initial setup
 - Uncompress the package to a folder.
 - Make the folder as the current directory `cd folder name`.
 - Install all the dependencies with `npm install`. 
